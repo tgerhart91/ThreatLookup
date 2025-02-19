@@ -26,9 +26,8 @@ pip install -r requirements.txt
 ```
 
 3. Configure API Keys  
-- You'll need API keys for VirusTotal and AbuseIPDB:  
-- Get a VirusTotal API key  
-- Get an AbuseIPDB API key  
+- Get a [VirusTotal](https://www.virustotal.com/) API key  
+- Get a [AbuseIPDB](https://www.abuseipdb.com/) API key  
 
 Create a .env file in the project folder and add your API keys:  
 
